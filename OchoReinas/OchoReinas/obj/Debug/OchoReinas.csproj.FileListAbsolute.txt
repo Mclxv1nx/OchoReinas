@@ -1,0 +1,14 @@
+C:\Users\ASUS\Documents\Visual Studio de Introducción\OchoReinas\OchoReinas\bin\Debug\OchoReinas.exe.config
+C:\Users\ASUS\Documents\Visual Studio de Introducción\OchoReinas\OchoReinas\bin\Debug\OchoReinas.exe
+C:\Users\ASUS\Documents\Visual Studio de Introducción\OchoReinas\OchoReinas\bin\Debug\OchoReinas.pdb
+C:\Users\ASUS\Documents\Visual Studio de Introducción\OchoReinas\OchoReinas\obj\Debug\OchoReinas.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio de Introducción\OchoReinas\OchoReinas\obj\Debug\OchoReinas.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Documents\Visual Studio de Introducción\OchoReinas\OchoReinas\obj\Debug\OchoReinas.Form1.resources
+C:\Users\ASUS\Documents\Visual Studio de Introducción\OchoReinas\OchoReinas\obj\Debug\OchoReinas.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio de Introducción\OchoReinas\OchoReinas\obj\Debug\OchoReinas.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\Visual Studio de Introducción\OchoReinas\OchoReinas\obj\Debug\OchoReinas.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Visual Studio de Introducción\OchoReinas\OchoReinas\obj\Debug\OchoReinas.exe
+C:\Users\ASUS\Documents\Visual Studio de Introducción\OchoReinas\OchoReinas\obj\Debug\OchoReinas.pdb
+C:\Users\adria\OneDrive - Universidad Tecnica del Norte\Documentos\Proyectos\OchoReinas\OchoReinas\OchoReinas\obj\Debug\OchoReinas.csproj.AssemblyReference.cache
+C:\Users\adria\OneDrive - Universidad Tecnica del Norte\Documentos\Proyectos\OchoReinas\OchoReinas\OchoReinas\obj\Debug\OchoReinas.exe
+C:\Users\adria\OneDrive - Universidad Tecnica del Norte\Documentos\Proyectos\OchoReinas\OchoReinas\OchoReinas\obj\Debug\OchoReinas.pdb
